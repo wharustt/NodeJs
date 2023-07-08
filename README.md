@@ -9,6 +9,36 @@
 Javascript, SQL
 
 
+
+## Run Locally
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm init -y
+```
+```bash
+  npm i express
+```
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+
+
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
 
