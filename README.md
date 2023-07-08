@@ -18,11 +18,14 @@ Go to the project directory
   cd my-project
 ```
 
-Install dependencies
+Install Init
 
 ```bash
   npm init -y
 ```
+
+Install dependencies
+
 ```bash
   npm i express
 ```
