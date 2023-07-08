@@ -1,8 +1,8 @@
 ## Features
 
-- Node Js
-- Express Js
-- SQL JS
+- Node JS
+- Express JS
+- SQL With JS
 
 
 ## 🛠 Skills
